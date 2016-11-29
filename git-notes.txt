@@ -4,3 +4,6 @@ to add a new file and commit to the repository
 
 git add FILENAME
 git commit -m 
+
+
+something more
